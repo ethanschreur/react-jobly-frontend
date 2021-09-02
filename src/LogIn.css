@@ -1,0 +1,27 @@
+.LogIn {
+	width: 100vw;
+	padding-top: 75px;
+}
+
+.LogIn-body {
+	position: absolute;
+	left: 50%;
+	margin-right: -50%;
+	transform: translate(-50%);
+	text-align: left;
+}
+
+.LogIn Form {
+	background-color: white;
+	padding: 25px;
+	width: 35vw;
+	border-radius: 10px;
+}
+
+.LogIn .submit-btn {
+	left: -10px;
+}
+
+.LogIn .form-control:focus {
+	box-shadow: none !important;
+}

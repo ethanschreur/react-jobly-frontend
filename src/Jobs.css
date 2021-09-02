@@ -1,0 +1,19 @@
+.Jobs {
+	width: 100vw;
+	padding-top: 75px;
+}
+
+.Jobs-body {
+	position: absolute;
+	left: 50%;
+	margin-right: -50%;
+	transform: translate(-50%);
+	text-align: left;
+}
+
+.Jobs Form {
+	background-color: white;
+	padding: 0px;
+	width: 65vw;
+	border-radius: 10px;
+}

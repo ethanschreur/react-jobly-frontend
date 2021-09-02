@@ -1,0 +1,27 @@
+.SignUp {
+	width: 100vw;
+	padding-top: 75px;
+}
+
+.SignUp-body {
+	position: absolute;
+	left: 50%;
+	margin-right: -50%;
+	transform: translate(-50%);
+	text-align: left;
+}
+
+.SignUp Form {
+	background-color: white;
+	padding: 25px;
+	width: 35vw;
+	border-radius: 10px;
+}
+
+.SignUp .submit-btn {
+	left: -10px;
+}
+
+.SignUp .form-control:focus {
+	box-shadow: none !important;
+}

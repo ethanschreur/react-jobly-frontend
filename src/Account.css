@@ -1,0 +1,27 @@
+.Account {
+	width: 100vw;
+	padding-top: 75px;
+}
+
+.Account-body {
+	position: absolute;
+	left: 50%;
+	margin-right: -50%;
+	transform: translate(-50%);
+	text-align: left;
+}
+
+.Account Form {
+	background-color: white;
+	padding: 25px;
+	width: 35vw;
+	border-radius: 10px;
+}
+
+.Account .submit-btn {
+	left: -10px;
+}
+
+.Account .form-control:focus {
+	box-shadow: none !important;
+}

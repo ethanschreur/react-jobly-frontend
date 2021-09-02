@@ -1,0 +1,19 @@
+.Companies {
+	width: 100vw;
+	padding-top: 75px;
+}
+
+.Companies-body {
+	position: absolute;
+	left: 50%;
+	margin-right: -50%;
+	transform: translate(-50%);
+	text-align: left;
+}
+
+.Companies Form {
+	background-color: white;
+	padding: 0px;
+	width: 65vw;
+	border-radius: 10px;
+}

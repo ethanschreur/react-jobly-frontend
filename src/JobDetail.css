@@ -1,0 +1,18 @@
+.JobDetail-body {
+	background-color: white;
+	padding: 25px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	width: 65vw;
+	border-radius: 5px;
+	border: lightgray 1px solid;
+}
+
+.JobDetail a {
+	color: black;
+	text-decoration: none;
+}
+.JobDetail-applyButton {
+	display: flex;
+	justify-content: space-between;
+}
